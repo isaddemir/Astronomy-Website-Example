@@ -1,5 +1,6 @@
 # Astronomy-Website-Example
 This repository is an imaginary website example that provides information about discovered exoplanets and galaxies. Additionally, it includes a blog section where articles related to astronomy are shared. The website is a simple project designed solely using HTML and CSS. <br>
+To see the demo version of the website, click [here](https://astronomy-website-example.netlify.app/).
 
 ### Website Preview
 
